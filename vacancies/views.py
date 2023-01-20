@@ -1,7 +1,8 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-from rest_framework.exceptions import NotFound
+from rest_framework.exceptions import NotFound, PermissionDenied
+from rest_framework.permissions import IsAdminUser
 
 from django.db import IntegrityError
 
@@ -59,7 +60,11 @@ class VacancyDetailView(APIView):
           }
           return Response(res, status=status.HTTP_422_UNPROCESSABLE_ENTITY)
     
-    def delete(self, _request, pk):
+    def delete(self, request, pk):
+        is_admin = request.user.IsAdminUser
+        if not is_admin:
+          raise PermissionDenied()
+        
         vacancy_to_delete = self.get_vacancy(pk=pk)
         vacancy_to_delete.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)

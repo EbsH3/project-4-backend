@@ -2,6 +2,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
+from django.db import IntegrityError
 
 from .serializers.common import EmployerSerializer
 from .serializers.populated import PopulatedEmployerSerializer
@@ -15,6 +16,21 @@ class EmployerListView(APIView):
       employers = Employer.objects.all()
       serialized_employers = EmployerSerializer(employers, many=True)
       return Response(serialized_employers.data, status=status.HTTP_200_OK)
+    
+    def post(self, request):
+      request.data['owner'] = request.user.id
+      employer_to_add = EmployerSerializer(data=request.data)
+      try:
+        employer_to_add.is_valid()
+        employer_to_add.save()
+        return Response(employer_to_add.data, status=status.HTTP_201_CREATED)
+      except IntegrityError as err:
+        res = {
+          "detail": str(err)
+        }
+        return Response(res, status=status.HTTP_422_UNPROCESSABLE_ENTITY)
+      except AssertionError as err:
+        return Response({"detail": str(err)}, status=status.HTTP_422_UNPROCESSABLE_ENTITY) 
 
 class EmployerDetailView(APIView):
     def get(self, _request, pk):
