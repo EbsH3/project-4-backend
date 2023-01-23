@@ -5,4 +5,4 @@ from ..models import Feedback
 class FeedbackSerializer(serializers.ModelSerializer):
     class Meta:
       model = Feedback
-      fields = ('email', 'username', 'first_name', 'last_name')
+      fields = '__all__'

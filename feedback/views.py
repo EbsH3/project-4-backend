@@ -35,7 +35,7 @@ class FeedbackDetailView(APIView):
     
     def get(self, _request, pk):
       feedback = Feedback.objects.get(pk=pk)
-      serialized_feedback = FeedbackSerializer(feedback)
+      serialized_feedback = FeedbackSerializer(feedback) 
       return Response(serialized_feedback.data, status=status.HTTP_200_OK)
     
     def delete(self, request, pk):
