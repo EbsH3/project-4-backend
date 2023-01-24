@@ -1,2 +1,98 @@
 [
+{
+  "model": "tips.tips",
+  "pk": 2,
+  "fields": {
+    "name": "Pay Attention",
+    "detail": "Interviews can be boring 🥱, make sure you don't fall asleep..if you do happen to fall asleep, make sure you tell the interviewer s/he has managed to rid you of your lifelong insomnia. This may appease the interviewer and you may even get the job!",
+    "image": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-10/166164-170922.png?itok=8JNuldXJ",
+    "sector": [
+      8
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 3,
+  "fields": {
+    "name": "Be Prepared",
+    "detail": "Failing to prepare is preparing for failure. Interviews are hard work, but you can make them easier. It's a good idea to do some research on your potential employer and prepare to answer questions as to why you are a good fit for their company.",
+    "image": "https://previews.123rf.com/images/artursz/artursz1906/artursz190602724/124051825-text-sign-showing-be-prepared-business-photo-text-try-be-always-ready-to-do-or-deal-with-something-c.jpg",
+    "sector": [
+      3
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 4,
+  "fields": {
+    "name": "Ask Questions",
+    "detail": "It's a conversation, not an interrogation. Ask questions about absolutely anything, the role, the team, the expectations...this is your chance to get to know them as much as it's their chance to get to know you!",
+    "image": "https://miro.medium.com/max/1400/1*v8SWnsAfR-zE4PB3Bg3vRg.png",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 5,
+  "fields": {
+    "name": "Read the Job Description",
+    "detail": "It may sound like an obvious but....but not so obvious when so many candidates 'forget' to read the job description. The job description is your bible it, read it, memorise it, enquire about it!",
+    "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_636337794_372776.jpg",
+    "sector": [
+      5
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 6,
+  "fields": {
+    "name": "Smile",
+    "detail": "Being friendly goes a long way, show the interviewers' your personality. After all, we do spend more time at work than at home..",
+    "image": "https://w7.pngwing.com/pngs/528/425/png-transparent-smile-emoji-happy-happiness-happy-face-yellow-smiling-message-social-networks-whatsapp.png",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 7,
+  "fields": {
+    "name": "Know yourself",
+    "detail": "It's a good idea to think about your strengths and weaknesses. Be prepared to talk about these, and how you overcome difficult situations in life (but mainly quoting examples of these situations at work).",
+    "image": "https://cdn.memiah.co.uk/uploads/lifecoach-directory.org.uk/image_gallery/mental_health-1639127176-hero.jpg",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 8,
+  "fields": {
+    "name": "Don't Overshare",
+    "detail": "Keep it strictly professional. The interviewer is NOT your friend, even though s/he may feel like it.",
+    "image": "https://miro.medium.com/max/1200/1*KTUHLl2UNganH2-0kwvSrw.jpeg",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "tips.tips",
+  "pk": 9,
+  "fields": {
+    "name": "Refresh Your Memory",
+    "detail": "Your CV is your first impression. It's a good idea to refresh your memory on what you've put on your CV. You should probably also check for spelling errors or typos. Make sure it's painting an accurate picture of yourself and your experiences!",
+    "image": "https://jamaity.org/wp-content/uploads/2014/10/cv-1_Banner_760x400.jpg",
+    "sector": [
+      5
+    ]
+  }
+}
 ]

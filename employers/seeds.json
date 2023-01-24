@@ -214,5 +214,53 @@
       8
     ]
   }
+},
+{
+  "model": "employers.employer",
+  "pk": 20,
+  "fields": {
+    "employer": "Home Office",
+    "location": "London",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUWFRgVFRUYGBgYGhoYGBgYGBgYGBgYGBgaGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGhISGDQhGCE0NDQ0NDQxNDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQxMTQ0NDQ0MTQ0NDQ0MTE0NDQ0NDQxNP/AABEIALQBGAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAECBAUGB//EAD4QAAIBAgQCCAQEBAUEAwAAAAECAAMRBBIhMQVBBiJRYXGRobETMoHBQmJy0VKS4fAUI4Ky8UNTo8IVJDP/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACIRAQEAAgICAgIDAAAAAAAAAAABAhEhMRJBAzJRYRNCsf/aAAwDAQACEQMRAD8AyWoazE4wLOB2D3/4nUOJyvGz/mN3Ae1548Oa1VPh1Au9h3mX6mEIE0ehGCDl2PJQPM/0mlxXCAEAds7XLnTDgKSZsUq/nHpr9p3zDScTwJM+Lv2F29wPedyyzdVXIjMIdlg6osDMjGqbwTDaGcSBGo/vlOTZCJpICRaRRcMukFV3MNRbSAfczd6Sdhw+H5wJhaJ0MxWoMW1HiJLhuNq1cQHuwUAXQ",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 21,
+  "fields": {
+    "employer": "Capgemini",
+    "location": "London",
+    "logo": "https://images.ctfassets.net/7xz1x21beds9/7zZyjJ8QEAmpPRMvolttd6/a341e6fadd41305da2ed504502a8b3a8/289352745_1392294287940718_2560032751646832383_n.jpg",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 22,
+  "fields": {
+    "employer": "CloudPay",
+    "location": "London",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGBgZGhgcGhwaHBgaHBwYGhgZGiEaGhgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjYrJCw0NDY0NjU0NDY0NDU0NDQ0NDY2NDQ0NDQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAK4BIgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAABAgUGB//EAEEQAAIABAMECAQEBAUDBQAAAAECAAMRIQQSMUFRYYEFInGRobHB8AYTMtEUUuHxB0JighUWIzOSY3KyJTSiwsP/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QALhEAAgIBBAEBCAIBBQAAAAAAAAECESEDEjFBUWETIjJxgZGhsQTR8BRCYsHx/9oADAMBAAIRAxEAPwDwoMSMAxoGPpDzaIVigI1EAjGsw6wB1hloE4ghQvWLiMsZrACaiVigYuMY0sEUwIRpTBRgpgRWCJFmMYDlijGmMUYxjBigYukURACFWCZoAhggggC6xlDeKVqQZAIwC0eCUgaiCQDGJiQCcpbshhzGARGMmJIkNyFiyl4MojGshEBpWDGMhYxilWNFgASTQcYsCF+kD",
+    "sector": [
+      3
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 23,
+  "fields": {
+    "employer": "UBS",
+    "location": "France",
+    "logo": "https://images.fnlondon.com/im-708250/?width=1280&height=853",
+    "sector": [
+      8
+    ]
+  }
 }
 ]
