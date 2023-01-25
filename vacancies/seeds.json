@@ -194,5 +194,18 @@
       16
     ]
   }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 16,
+  "fields": {
+    "title": "Metaverse Fangirl",
+    "location": "MetaHub",
+    "salary": "MetaMoney",
+    "url": "https://www.google.com/search?q=metaverse+jobs&oq=metaverse+jobs&aqs=chrome..69i57j0i512l9.3310j0j9&sourceid=chrome&ie=UTF-8&ibp=htl;jobs&sa=X&ved=2ahUKEwizypLuleP8AhXOa8AKHe8uCf4Qkd0GegQIGRAB#fpstate=tldetail&htivrt=jobs&htiq=metaverse+jobs&htidocid=Gk2-UAYHvZ0AAAAAAAAAAA%3D%3D&sxsrf=AJOqlzVY1TmXx8tDbgTCEzeScFB9enQPxg:1674665156458",
+    "employer": [
+      3
+    ]
+  }
 }
 ]
