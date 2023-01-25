@@ -1,0 +1,198 @@
+[
+{
+  "model": "salaries.salary",
+  "pk": 2,
+  "fields": {
+    "title": "Business Analyst",
+    "level_of_experience": "Mid-level",
+    "salary_benchmark": "$50,000 - $62,000",
+    "image": "https://uploads-ssl.webflow.com/6095a6b50a2535d8734740bc/60a261cdcc3468fac57fd68c_business-analyst.png",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 3,
+  "fields": {
+    "title": "Business Analyst",
+    "level_of_experience": "Entry level",
+    "salary_benchmark": "$40,000 - $55,000",
+    "image": "https://uploads-ssl.webflow.com/6095a6b50a2535d8734740bc/60a261cdcc3468fac57fd68c_business-analyst.png",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 4,
+  "fields": {
+    "title": "Business Analyst",
+    "level_of_experience": "Senior",
+    "salary_benchmark": "$62,000 - $85,000",
+    "image": "https://uploads-ssl.webflow.com/6095a6b50a2535d8734740bc/60a261cdcc3468fac57fd68c_business-analyst.png",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 5,
+  "fields": {
+    "title": "Software Engineer",
+    "level_of_experience": "Entry level",
+    "salary_benchmark": "$45,000 - $55,000",
+    "image": "https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 6,
+  "fields": {
+    "title": "Software Engineer",
+    "level_of_experience": "Mid level",
+    "salary_benchmark": "$68,000 - $100,000",
+    "image": "https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 7,
+  "fields": {
+    "title": "Software Engineer",
+    "level_of_experience": "Senior",
+    "salary_benchmark": "$100,000 ++",
+    "image": "https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 8,
+  "fields": {
+    "title": "QA Analyst",
+    "level_of_experience": "Entry",
+    "salary_benchmark": "$35,000 - $45,000",
+    "image": "https://reqtest.com/wp-content/uploads/2019/04/QA-Analyst-big-731x421.png",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 9,
+  "fields": {
+    "title": "QA Analyst",
+    "level_of_experience": "Mid-level",
+    "salary_benchmark": "$47,000 - $54,000",
+    "image": "https://reqtest.com/wp-content/uploads/2019/04/QA-Analyst-big-731x421.png",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 10,
+  "fields": {
+    "title": "QA Analyst",
+    "level_of_experience": "Senior",
+    "salary_benchmark": "$70,000 +",
+    "image": "https://reqtest.com/wp-content/uploads/2019/04/QA-Analyst-big-731x421.png",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 11,
+  "fields": {
+    "title": "Project Manager",
+    "level_of_experience": "Entry level",
+    "salary_benchmark": "$60,000 - $70,000",
+    "image": "https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 12,
+  "fields": {
+    "title": "Project Manager",
+    "level_of_experience": "Mid-level",
+    "salary_benchmark": "$70,000 - $80,000",
+    "image": "https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png",
+    "sector": [
+      3
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 13,
+  "fields": {
+    "title": "Project Manager",
+    "level_of_experience": "Senior",
+    "salary_benchmark": "$85,000 +",
+    "image": "https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 14,
+  "fields": {
+    "title": "Scrum Master",
+    "level_of_experience": "Entry level",
+    "salary_benchmark": "$65,000",
+    "image": "https://miro.medium.com/max/1200/1*9Zf0StqtSEwp1-uhbDe7Tg.png",
+    "sector": [
+      8,
+      7
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 15,
+  "fields": {
+    "title": "Scrum Master",
+    "level_of_experience": "Mid level",
+    "salary_benchmark": "$70,000",
+    "image": "https://miro.medium.com/max/1200/1*9Zf0StqtSEwp1-uhbDe7Tg.png",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "salaries.salary",
+  "pk": 16,
+  "fields": {
+    "title": "Scrum Master",
+    "level_of_experience": "Senior",
+    "salary_benchmark": "$90,000 +",
+    "image": "https://miro.medium.com/max/1200/1*9Zf0StqtSEwp1-uhbDe7Tg.png",
+    "sector": [
+      5
+    ]
+  }
+}
+]

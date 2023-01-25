@@ -1,0 +1,266 @@
+[
+{
+  "model": "employers.employer",
+  "pk": 2,
+  "fields": {
+    "employer": "Google",
+    "location": "London",
+    "logo": "https://cdn.webrazzi.com/uploads/2022/07/google-723.png",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 3,
+  "fields": {
+    "employer": "Meta",
+    "location": "USA",
+    "logo": "https://imageio.forbes.com/specials-images/imageserve/6371fa34f98b96a6d361196b/0x0.jpg?format=jpg&width=1200",
+    "sector": [
+      2
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 4,
+  "fields": {
+    "employer": "Monzo",
+    "location": "London",
+    "logo": "https://moneytothemasses.com/wp-content/uploads/2019/09/Monzo-Card-3-1.jpg",
+    "sector": [
+      3
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 5,
+  "fields": {
+    "employer": "London Stock Exchange",
+    "location": "London",
+    "logo": "https://image.cnbcfm.com/api/v1/image/103463572-GettyImages-451082512.jpg?v=1532564161",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 6,
+  "fields": {
+    "employer": "ICE Futures Europe",
+    "location": "London",
+    "logo": "http://prod-upp-image-read.ft.com/47d2829e-d7cc-11e2-a26a-00144feab7de",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 7,
+  "fields": {
+    "employer": "Hong Kong Exchange (HKEX)",
+    "location": "Hong Kong",
+    "logo": "https://www.snl.com/articles/411504548.jpg",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 8,
+  "fields": {
+    "employer": "Allen & Overy",
+    "location": "London",
+    "logo": "https://www.consultancy.uk/illustrations/news/spotlight/2018-07-03-133345693-Law-firm-Allen-_-Overy-launches-regulatory-consulting-business.jpg",
+    "sector": [
+      5
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 9,
+  "fields": {
+    "employer": "Clifford Chance",
+    "location": "London",
+    "logo": "https://images.law.com/contrib/content/uploads/sites/378/2020/03/Clifford-Chance-Office-Sign-Article-202003021553.jpg",
+    "sector": [
+      5
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 10,
+  "fields": {
+    "employer": "Slaughter & May",
+    "location": "London",
+    "logo": "https://images.law.com/contrib/content/uploads/sites/378/2018/12/Slaughter-and-May-Article-201812031505-1.jpg",
+    "sector": [
+      5
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 11,
+  "fields": {
+    "employer": "Amgen",
+    "location": "Germany",
+    "logo": "https://qtxasset.com/quartz/qcloud5/media/image/fiercepharma/1548810385/amgen3.jpg/amgen3.jpg?VersionId=6dsf8W8sOoGq1IbJtkK5PiaseuI6mQHK",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 12,
+  "fields": {
+    "employer": "GlaxoSmithKline(GSK)",
+    "location": "London",
+    "logo": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/SUC/gsk-20181005052518737.png",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 13,
+  "fields": {
+    "employer": "Pfizer",
+    "location": "London",
+    "logo": "https://static01.nyt.com/images/2021/05/04/business/04virus-pfizer/merlin_187257999_43aa5bcc-c40b-464e-960e-2ed868f7ac06-superJumbo.jpg",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 14,
+  "fields": {
+    "employer": "KPMG",
+    "location": "London",
+    "logo": "https://assets.kpmg/is/image/kpmg/kpmg-enterance:cq5dam.web.1200.630",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 15,
+  "fields": {
+    "employer": "Deloitte",
+    "location": "London",
+    "logo": "https://d1e00ek4ebabms.cloudfront.net/production/7a0a357b-9c00-458f-b5be-67b862440ef9.jpg",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 16,
+  "fields": {
+    "employer": "Ernst & Young (EY)",
+    "location": "London",
+    "logo": "https://i.dailymail.co.uk/1s/2021/11/08/17/50216993-0-image-a-5_1636392747674.jpg",
+    "sector": [
+      7
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 17,
+  "fields": {
+    "employer": "J.P. Morgan",
+    "location": "USA",
+    "logo": "https://www.jpmorgan.com/content/dam/jpm/global/images/JPMorgan_Logo_London_building.jpg",
+    "sector": [
+      8
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 18,
+  "fields": {
+    "employer": "Deutsche Bank",
+    "location": "Deutschland",
+    "logo": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72d25881-8dd6-4fc8-94c5-2031b81fcbab.jpg?fit=scale-down&source=next&width=700",
+    "sector": [
+      8
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 19,
+  "fields": {
+    "employer": "Goldman Sachs",
+    "location": "London",
+    "logo": "https://www.finextra.com/finextra-images/top_pics/xl/goldman-sachs.jpg",
+    "sector": [
+      8
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 20,
+  "fields": {
+    "employer": "Home Office",
+    "location": "London",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUWFRgVFRUYGBgYGhoYGBgYGBgYGBgYGBgaGhgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGhISGDQhGCE0NDQ0NDQxNDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQxMTQ0NDQ0MTQ0NDQ0MTE0NDQ0NDQxNP/AABEIALQBGAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAECBAUGB//EAD4QAAIBAgQCCAQEBAUEAwAAAAECAAMRBBIhMQVBBiJRYXGRobETMoHBQmJy0VKS4fAUI4Ky8UNTo8IVJDP/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EACIRAQEAAgICAgIDAAAAAAAAAAABAhEhMRJBAzJRYRNCsf/aAAwDAQACEQMRAD8AyWoazE4wLOB2D3/4nUOJyvGz/mN3Ae1548Oa1VPh1Au9h3mX6mEIE0ehGCDl2PJQPM/0mlxXCAEAds7XLnTDgKSZsUq/nHpr9p3zDScTwJM+Lv2F29wPedyyzdVXIjMIdlg6osDMjGqbwTDaGcSBGo/vlOTZCJpICRaRRcMukFV3MNRbSAfczd6Sdhw+H5wJhaJ0MxWoMW1HiJLhuNq1cQHuwUAXQ",
+    "sector": [
+      6
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 21,
+  "fields": {
+    "employer": "Capgemini",
+    "location": "London",
+    "logo": "https://images.ctfassets.net/7xz1x21beds9/7zZyjJ8QEAmpPRMvolttd6/a341e6fadd41305da2ed504502a8b3a8/289352745_1392294287940718_2560032751646832383_n.jpg",
+    "sector": [
+      4
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 22,
+  "fields": {
+    "employer": "CloudPay",
+    "location": "London",
+    "logo": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhYZGBgZGhgcGhwaHBgaHBwYGhgZGiEaGhgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjYrJCw0NDY0NjU0NDY0NDU0NDQ0NDY2NDQ0NDQ0NjQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAK4BIgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAABAgUGB//EAEEQAAIABAMECAQEBAUDBQAAAAECAAMRIQQSMUFRYYEFInGRobHB8AYTMtEUUuHxB0JighUWIzOSY3KyJTSiwsP/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QALhEAAgIBBAEBCAIBBQAAAAAAAAECESEDEjFBUWETIjJxgZGhsQTR8BRCYsHx/9oADAMBAAIRAxEAPwDwoMSMAxoGPpDzaIVigI1EAjGsw6wB1hloE4ghQvWLiMsZrACaiVigYuMY0sEUwIRpTBRgpgRWCJFmMYDlijGmMUYxjBigYukURACFWCZoAhggggC6xlDeKVqQZAIwC0eCUgaiCQDGJiQCcpbshhzGARGMmJIkNyFiyl4MojGshEBpWDGMhYxilWNFgASTQcYsCF+kD",
+    "sector": [
+      3
+    ]
+  }
+},
+{
+  "model": "employers.employer",
+  "pk": 23,
+  "fields": {
+    "employer": "UBS",
+    "location": "France",
+    "logo": "https://images.fnlondon.com/im-708250/?width=1280&height=853",
+    "sector": [
+      8
+    ]
+  }
+}
+]

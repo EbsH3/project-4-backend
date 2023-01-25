@@ -26,5 +26,4 @@ urlpatterns = [
     path('api/tips/', include('tips.urls')),
     path('api/feedback/', include('feedback.urls')),
     
-    
 ]

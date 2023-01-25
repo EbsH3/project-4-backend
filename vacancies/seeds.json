@@ -1,0 +1,198 @@
+[
+{
+  "model": "vacancies.vacancy",
+  "pk": 1,
+  "fields": {
+    "title": "Developer",
+    "location": "London",
+    "salary": "$35,000",
+    "url": "https://uk.linkedin.com/jobs/junior-developer-jobs?position=1&pageNum=0",
+    "employer": [
+      2
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 2,
+  "fields": {
+    "title": "Full Stack Engineer",
+    "location": "London",
+    "salary": "$100k",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3438925214&geoId=101165590&keywords=software%20developer%20google%20cloud&location=United%20Kingdom&originalSubdomain=uk&refresh=true",
+    "employer": [
+      2
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 3,
+  "fields": {
+    "title": "Software Developer",
+    "location": "London",
+    "salary": "$60,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3449961974&keywords=developer",
+    "employer": [
+      20
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 4,
+  "fields": {
+    "title": "Project Manager",
+    "location": "London",
+    "salary": "DOE",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3452146401&geoId=101165590&keywords=project%20manager&location=United%20Kingdom&refresh=true",
+    "employer": [
+      12
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 5,
+  "fields": {
+    "title": "Senior Project Manager",
+    "location": "London",
+    "salary": "$60,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3436421893&geoId=101165590&keywords=project%20manager&location=United%20Kingdom&refresh=true",
+    "employer": [
+      4
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 6,
+  "fields": {
+    "title": "Junior Service Delivery Manager",
+    "location": "Stevenage",
+    "salary": "$31,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3429056277&geoId=101165590&keywords=project%20manager&location=United%20Kingdom&refresh=true",
+    "employer": [
+      9
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 7,
+  "fields": {
+    "title": "Engagement Manager",
+    "location": "London",
+    "salary": "$85,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3431380786&geoId=101165590&keywords=project%20manager&location=United%20Kingdom&refresh=true",
+    "employer": [
+      21
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 8,
+  "fields": {
+    "title": "Client Experience Architect",
+    "location": "London",
+    "salary": "Competitive",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3038373329&geoId=101165590&keywords=ux%20designer&location=United%20Kingdom&refresh=true",
+    "employer": [
+      21
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 9,
+  "fields": {
+    "title": "UX Designer",
+    "location": "Remote",
+    "salary": "$64,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3426580566&geoId=101165590&keywords=ux%20designer&location=United%20Kingdom&refresh=true",
+    "employer": [
+      6,
+      22
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 10,
+  "fields": {
+    "title": "Information Architect",
+    "location": "London",
+    "salary": "$40,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3440931091&geoId=101165590&keywords=ux%20designer&location=United%20Kingdom&refresh=true",
+    "employer": [
+      9
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 11,
+  "fields": {
+    "title": "Agile Coach",
+    "location": "Remote",
+    "salary": "$32,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3435463054&geoId=101165590&keywords=agile%20coach&location=United%20Kingdom&refresh=true",
+    "employer": [
+      6
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 12,
+  "fields": {
+    "title": "Senior Agile Coach",
+    "location": "London",
+    "salary": "$100,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3446973242&geoId=101165590&keywords=agile%20coach&location=United%20Kingdom&refresh=true",
+    "employer": [
+      23
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 13,
+  "fields": {
+    "title": "IT Support Specialist",
+    "location": "London",
+    "salary": "$25,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3440636439&keywords=project%20support%20office",
+    "employer": [
+      8
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 14,
+  "fields": {
+    "title": "Business Analyst",
+    "location": "Hybrid",
+    "salary": "$66,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3427694696&geoId=101165590&keywords=business%20analyst&location=United%20Kingdom&refresh=true",
+    "employer": [
+      18
+    ]
+  }
+},
+{
+  "model": "vacancies.vacancy",
+  "pk": 15,
+  "fields": {
+    "title": "Lead QA Analyst",
+    "location": "Surrey",
+    "salary": "$99,000",
+    "url": "https://www.linkedin.com/jobs/search/?currentJobId=3380482144&geoId=101165590&keywords=qa%20analyst&location=United%20Kingdom&refresh=true",
+    "employer": [
+      16
+    ]
+  }
+}
+]
